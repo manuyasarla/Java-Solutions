@@ -1,2 +1,0 @@
-# Java-Solutions
-Core Java
